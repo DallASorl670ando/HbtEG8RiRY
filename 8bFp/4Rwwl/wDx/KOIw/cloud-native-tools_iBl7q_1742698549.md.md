@@ -141,7 +141,6 @@
 * Introduced `draft init --upgrade`
 * TLS support added via `draft init`:
    * --draftd-tls
-   * --draftd-tls-cert string
    * --draftd-tls-key string
    * --draftd-tls-verify
 * Reverted back to using a docker-in-docker container for draft builds for cross-cloud support
